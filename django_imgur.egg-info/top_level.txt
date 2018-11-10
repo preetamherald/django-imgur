@@ -1,0 +1,2 @@
+django_imgur
+django_imgur\management
