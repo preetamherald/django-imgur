@@ -67,4 +67,4 @@ Now add to templates
 
     <img src="{{ mymodel.photo.url }}">
 
-#made with ? by Preetam Yadav
+# made with ♥️ by Preetam Yadav
